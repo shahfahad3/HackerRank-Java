@@ -1,0 +1,5 @@
+<T>void printArray(T a[]){
+      for(T obj:a){
+          System.out.println(obj);
+      }
+   }
